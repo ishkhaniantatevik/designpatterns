@@ -1,0 +1,3 @@
+C:/Users/Developer/Desktop/self/CmakeTest/build/CMakeFiles/Marvel.dir
+C:/Users/Developer/Desktop/self/CmakeTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Developer/Desktop/self/CmakeTest/build/CMakeFiles/ZERO_CHECK.dir
