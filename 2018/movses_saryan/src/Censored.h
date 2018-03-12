@@ -33,7 +33,11 @@ public:
 public:
 	void addBadWord(const std::string& badWord, const std::string& goodWord)
 	{
-		dict[badWord] = goodWord;
+		auto hint = dict.find(badWord);
+		if (hint == dict.end())
+		{
+			dict.insert(hint, std::make_pair(badWord, goodWord));
+		}
 	}
 private:
 	void perephrase(std::string& s)
