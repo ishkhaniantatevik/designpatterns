@@ -8,11 +8,12 @@ private:
 	int _price;
 	std::string _name;
 	static Books *_book;
-public:
+
 	Books()
 		:_price(50)
 		,_name("BookName")
 	{}
+public:
 	void set_price(int price) 
 	{ 
 		_price = price;
