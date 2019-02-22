@@ -3,13 +3,16 @@
 
 #include "../StructuralPattern.h"
 
+namespace DP {
+
 class Decorator : public StructuralPattern
 {
 public:
 
 private:
 
-};
+}; // class Decorator
 
+} // namespace DP
 
 #endif

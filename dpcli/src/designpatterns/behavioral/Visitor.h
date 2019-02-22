@@ -3,13 +3,16 @@
 
 #include "../BehavioralPattern.h"
 
+namespace DP {
+
 class Visitor : public BehavioralPattern
 {
 public:
 
 private:
 
-};
+}; // class Visitor
 
+} // namespace DP
 
 #endif

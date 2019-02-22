@@ -39,21 +39,33 @@
 
 int main()
 {
-    std::vector<DesignPattern*> patterns;
+    std::vector<DP::DesignPattern*> patterns;
 
-    patterns.push_back(new AbstractFactory());
-    patterns.push_back(new Builder());
-    patterns.push_back(new FactoryMethod());
-    patterns.push_back(new Prototype());
-    patterns.push_back(new Singleton());
+    patterns.push_back(new DP::AbstractFactory());
+    patterns.push_back(new DP::Builder());
+    patterns.push_back(new DP::FactoryMethod());
+    patterns.push_back(new DP::Prototype());
+    patterns.push_back(new DP::Singleton());
 
-    patterns.push_back(new Adapter());
-    patterns.push_back(new Bridge());
-    patterns.push_back(new Composite());
-    patterns.push_back(new Decorator());
-    patterns.push_back(new Facade());
-    patterns.push_back(new Flyweight());
-    patterns.push_back(new Proxy());
+    patterns.push_back(new DP::Adapter());
+    patterns.push_back(new DP::Bridge());
+    patterns.push_back(new DP::Composite());
+    patterns.push_back(new DP::Decorator());
+    patterns.push_back(new DP::Facade());
+    patterns.push_back(new DP::Flyweight());
+    patterns.push_back(new DP::Proxy());
+
+    patterns.push_back(new DP::ChainOfResponsibility());
+    patterns.push_back(new DP::Command());
+    patterns.push_back(new DP::Interpreter());
+    patterns.push_back(new DP::Iterator());
+    patterns.push_back(new DP::Mediator());
+    patterns.push_back(new DP::Memento());
+    patterns.push_back(new DP::Observer());
+    patterns.push_back(new DP::State());
+    patterns.push_back(new DP::Strategy());
+    patterns.push_back(new DP::TemplateMethod());
+    patterns.push_back(new DP::Visitor());
 
     for ( auto* pattern : patterns )
     {

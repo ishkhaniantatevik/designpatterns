@@ -3,13 +3,16 @@
 
 #include "../BehavioralPattern.h"
 
+namespace DP {
+
 class Mediator : public BehavioralPattern
 {
 public:
 
 private:
 
-};
+}; // class Mediator
 
+} // namespace DP
 
 #endif

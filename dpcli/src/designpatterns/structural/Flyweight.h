@@ -3,13 +3,16 @@
 
 #include "../StructuralPattern.h"
 
+namespace DP {
+
 class Flyweight : public StructuralPattern
 {
 public:
 
 private:
 
-};
+}; // class Flyweight
 
+} // namespace DP
 
 #endif

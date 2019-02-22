@@ -3,13 +3,16 @@
 
 #include "../CreationalPattern.h"
 
+namespace DP {
+
 class Prototype : public CreationalPattern
 {
 public:
 
 private:
 
-};
+}; // class Prototype
 
+} // namespace DP
 
 #endif

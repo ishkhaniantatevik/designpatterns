@@ -3,13 +3,16 @@
 
 #include "../CreationalPattern.h"
 
+namespace DP {
+
 class FactoryMethod : public CreationalPattern
 {
 public:
 
 private:
 
-};
+}; // class FactoryMethod
 
+} // namespace DP
 
 #endif
