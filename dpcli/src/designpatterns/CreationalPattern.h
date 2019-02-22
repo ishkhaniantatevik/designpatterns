@@ -3,12 +3,17 @@
 
 #include "DesignPattern.h"
 
-namespace DP {
+namespace DP
+{
 
 class CreationalPattern : public DesignPattern
 {
 public:
-
+    virtual Type getType() const override
+    {
+        return DesignPattern::CREATIONAL;
+    }
+    
 private:
 
 }; // class CreationalPattern
