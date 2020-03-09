@@ -1,0 +1,11 @@
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp2.2/FactoryMethod.deps.json
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp2.2/FactoryMethod.runtimeconfig.json
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp2.2/FactoryMethod.runtimeconfig.dev.json
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp2.2/FactoryMethod.dll
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp2.2/FactoryMethod.pdb
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp2.2/FactoryMethod.csprojAssemblyReference.cache
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp2.2/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp2.2/FactoryMethod.AssemblyInfoInputs.cache
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp2.2/FactoryMethod.AssemblyInfo.cs
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp2.2/FactoryMethod.dll
+/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp2.2/FactoryMethod.pdb

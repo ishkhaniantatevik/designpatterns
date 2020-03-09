@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/FactoryMethod.csproj": {}
+  },
+  "projects": {
+    "/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/FactoryMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
+        "projectName": "FactoryMethod",
+        "projectPath": "/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
+        "packagesPath": "/Users/tatevikishkhanyan/.nuget/packages/",
+        "outputPath": "/Users/tatevikishkhanyan/RiderProjects/FactoryMethod/FactoryMethod/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tatevikishkhanyan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
